@@ -15,7 +15,7 @@ GitHub Actions voert het uit en controleert of het juist is. Resultaat is zichtb
 4. GitHub Actions draait automatisch (bij elke push die iets in
    `exercises_with_checks/` wijzigt). Na ±1–2 min zie je een groene vink (alle
    checks geslaagd) of een rood kruis (klik erop voor de details: welke oefening faalt en waarom).
-5. Je mag zo vaak pushen als je wil tot alles groen is.
+5. Je mag zo vaak pushen als je wil tot alles groen is
 
 ## Lokaal testen in de devcontainer (geen git nodig)
 
